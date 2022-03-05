@@ -5,6 +5,7 @@
 ## Version 0.3.0
 
 - Added experimental port forwarding feature
+- When sending, the code is now automatically copied to clipboard
 - Improved user experience with better logging and messages
 - Improved error and cancellation handling
 - Cleaned up CLI args and implemented previous placeholders
